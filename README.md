@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaalice&layout=compact&hide_border=true&title_color=c95ac6&text_color=c95ac6&bg_color=0d1117" alt="Most Used Languages"/>
 </div>
 
-####I am a Software Engineering student and FullStack developer, focused on creating innovative solutions with high efficiency and usability. Committed to continuous learning and code quality, my goal is to contribute to projects that make a difference in the world of technology.
+#### I am a Software Engineering student and FullStack developer, focused on creating innovative solutions with high efficiency and usability. Committed to continuous learning and code quality, my goal is to contribute to projects that make a difference in the world of technology.
 
 <div align="center">  
   <a href="https://www.instagram.com/aliceegamas/" target="_blank">
