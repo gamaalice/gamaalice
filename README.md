@@ -8,7 +8,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaalice&layout=compact&hide_border=true&title_color=c95ac6&text_color=c95ac6&bg_color=0d1117" alt="Most Used Languages"/>
 </div>
 
-#### I am Software engineering student and front-end developer, focused on developing innovative solutions that prioritize efficiency, usability, and accessibility, with a strong commitment to continuous learning and maintaining high code quality
+#### Software Engineering student and aspiring Front-End Developer, focused on creating modern interfaces. Committed to continuously improving my technical skills while applying best coding practices, balancing usability, structural clarity, and responsive design.
 
 <div align="center">  
   <a href="https://www.instagram.com/aliceegamas/" target="_blank">
