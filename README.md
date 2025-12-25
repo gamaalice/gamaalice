@@ -6,7 +6,8 @@
 <div align="center">  
 <img width="41%" height="195px" 
      src="[https://github-readme-stats.vercel.app/api/top-langs/?username=gamaalice&layout=compact&langs_count=10&hide_border=true&title_color=c95ac6&text_color=c95ac6&bg_color=0d1117](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=gamaalice&layout=compact&langs_count=10&hide_border=true&title_color=c95ac6&text_color=c95ac6&bg_color=0d1117
-)" 
+)" ](https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=gamaalice
+)"
      alt="Most Used Languages"/>
 
 #### Junior Front-End Engineer with experience in React, Next.js, and React Native. I build accessible, high‑performance interfaces and apply solid engineering practices with a focus on clean architecture and efficient API integrations.
