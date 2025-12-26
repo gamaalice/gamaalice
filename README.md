@@ -10,7 +10,8 @@
 )"
      alt="Most Used Languages"/>
 
-#### Junior Front-End Engineer with experience in React, Next.js, and React Native. I build accessible, high‑performance interfaces and apply solid engineering practices with a focus on clean architecture and efficient API integrations.
+## Junior Software Engineer
+#### I develop modern, accessible, and scalable interfaces using React.js, Next.js, JavaScript, HTML, Node, and Python, and I also work with mobile development using React Native and Expo Go. I have experience in QA and Testing, including functional validation, manual UI, API, and mobile testing, structured bug documentation, and collaboration with multidisciplinary teams to ensure consistent and technically rigorous deliveries. I also work with Automation and Data using Python and SQL, strengthening my ability to build robust and efficient solutions. I’m continuously evolving as a Software Engineer, contributing to projects that combine technical excellence, purpose, and real impact.
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
