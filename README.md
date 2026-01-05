@@ -4,11 +4,12 @@
 
 ## Software Engineer | Frontend, Mobile & Python Automation
 
-- Development of modern, scalable user interfaces using React.js, Next.js, and TypeScript
-- Mobile application development with React Native and Expo
-- Automation and scripting solutions developed in Python
-- Strong focus on delivering impactful solutions supported by robust architectural principles
-- Professional objective centered on risk anticipation and continuous workflow optimization
+- React.js and Next.js for scalable and optimized interfaces  
+- React Native + Expo for cross-platform mobile applications  
+- Python (Tkinter, Pandas, Matplotlib) for automation and dashboards  
+- Modular architecture with focus on scalability  
+- Real-time data integration and visualization  
+- Software engineering oriented to workflow optimization  
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
@@ -23,6 +24,39 @@
 <div align="center">
   <img height="195px" src="https://v0-git-hub-language-stats.vercel.app/api/card/gamaalice?theme=dark&layout=compact&top=10&hide_border=true" alt="Most Used Languages"/>
 </div>
+
+---
+
+## Featured Projects
+
+### My Portfolio
+A dynamic, bilingual portfolio with a terminal-style interface and interactive animations.  
+- Multi-language support (PT/EN) with persistence in LocalStorage  
+- CLI-style intro with blinking cursor and animated lines  
+- Responsive project carousel with keyboard and touch support  
+- Accessible navbar with ARIA attributes and automatic active link highlighting  
+[View Project](https://gamaalice.github.io/dev-portfolio)
+
+---
+
+### Personal Budget Manager
+A personal budgeting application built with **Tkinter, Pandas, and Matplotlib**.  
+- Organized interface with side input panel (date, category, subcategory, amount)  
+- Automatic CSV storage with modularized code across multiple files  
+- Graphical visualizations: **pie chart** for spending distribution and **bar chart** by category  
+- Clean and functional dashboard  
+[View Repository](#)
+
+---
+
+### CryptoDashboard
+An open-source tool for real-time cryptocurrency dashboards.  
+- Built with **Next.js, Tailwind CSS, TypeScript**  
+- Modular and reusable UI components  
+- Dynamic data visualization with charts and mini-graphs  
+- Continuous integration and simplified deployment  
+- Utilization of **React Hook Form, Zod, dateFns** for validation and data handling  
+[View Repository](#)
 
 ---
 
@@ -49,4 +83,5 @@
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f2e6d&height=120&section=footer"/>
+
 
