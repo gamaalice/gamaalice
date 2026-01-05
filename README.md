@@ -11,7 +11,12 @@
 - Real-time data integration and visualization  
 - Software engineering oriented to workflow optimization  
 
-## Connect with me <div align="center"> <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://gamaalice.github.io/dev-portfolio" target="_blank" style="margin-left:8px"> <img src="https://img.shields.io/badge/-Portfolio-%23c95ac6?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"> </a> </div> <p align="center"> <sub>LinkedIn: professional background and updates · Portfolio: interactive showcase of projects and UI work</sub> </p> --- <div align="center"> <img height="195px" src="https://v0-git-hub-language-stats.vercel.app/api/card/gamaalice?theme=dark&layout=compact&top=10&hide_border=true" alt="Most Used Languages"/> </div> ---
+<a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://gamaalice.github.io/dev-portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6f2e6d?style=flat&logo=vercel&logoColor=white" />
+</a>
 
 ---
 <div align="center">
