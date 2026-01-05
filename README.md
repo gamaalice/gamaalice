@@ -4,11 +4,11 @@
 
 ## Software Engineer | Frontend, Mobile & Python Automation
 
-- Building modern and scalable interfaces with **React.js, Next.js, and React Native**  
-- Mobile development with **React Native + Expo**  
-- Automation and scripting with **Python**  
-- Focused on delivering impactful solutions with clean code and strong architecture  
-- Continuously evolving as a Software Engineer, combining technical excellence with real-world impact  
+- Development of modern, scalable user interfaces using React.js, Next.js, and TypeScript
+- Mobile application development with React Native and Expo
+- Automation and scripting solutions developed in Python
+- Strong focus on delivering impactful solutions supported by robust architectural principles
+- Professional objective centered on risk anticipation and continuous workflow optimization
 
 <div align="center">  
   <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
