@@ -20,8 +20,6 @@
 </div>
 
 ---
-
-### Most Used Languages
 <div align="center">
   <img height="195px" src="https://v0-git-hub-language-stats.vercel.app/api/card/gamaalice?theme=dark&layout=compact&top=10&hide_border=true" alt="Most Used Languages"/>
 </div>
