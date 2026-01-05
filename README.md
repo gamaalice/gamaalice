@@ -49,7 +49,7 @@ A personal budgeting application built with **Tkinter, Pandas, and Matplotlib**.
 - Organized interface with side input panel (date, category, subcategory, amount)  
 - Automatic CSV storage with modularized code across multiple files  
 - Graphical visualizations: **pie chart** for spending distribution and **bar chart** by category   
-[View Repository](#)
+[View Repository](https://github.com/gamaalice/budgetpersonal)
 
 ---
 
@@ -60,7 +60,7 @@ An open-source tool for real-time cryptocurrency dashboards.
 - Dynamic data visualization with charts and mini-graphs  
 - Continuous integration and simplified deployment  
 - Utilization of **React Hook Form, Zod, dateFns** for validation and data handling  
-[View Repository](#)
+[View Repository](https://github.com/gamaalice/cryptodashbord)
 
 ---
 
