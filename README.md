@@ -11,11 +11,12 @@
 - Real-time data integration and visualization  
 - Software engineering oriented to workflow optimization  
 
+## Connect with me
 <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" />
 </a>
 <a href="https://gamaalice.github.io/dev-portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-6f2e6d?style=flat&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-6f2e6d?style=social&logo=vercel" />
 </a>
 
 ---
