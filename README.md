@@ -11,22 +11,7 @@
 - Real-time data integration and visualization  
 - Software engineering oriented to workflow optimization  
 
-## Connect with Me
-
-You can explore more about my work and background through the links below:
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <br/>>
-  <br/><br/>
-  <a href="https://gamaalice.github.io/dev-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-%23c95ac6?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
-  </a>
-  <br/>
-</div>
-
+## Connect with me <div align="center"> <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://gamaalice.github.io/dev-portfolio" target="_blank" style="margin-left:8px"> <img src="https://img.shields.io/badge/-Portfolio-%23c95ac6?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"> </a> </div> <p align="center"> <sub>LinkedIn: professional background and updates · Portfolio: interactive showcase of projects and UI work</sub> </p> --- <div align="center"> <img height="195px" src="https://v0-git-hub-language-stats.vercel.app/api/card/gamaalice?theme=dark&layout=compact&top=10&hide_border=true" alt="Most Used Languages"/> </div> ---
 
 ---
 <div align="center">
