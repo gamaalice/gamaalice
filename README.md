@@ -11,11 +11,13 @@
 - Real-time data integration and visualization  
 - Software engineering oriented to workflow optimization  
 
-<div align="center">  
+## Connect with me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-   <a href="https://gamaalice.github.io/dev-portfolio" target="_blank">
+  <a href="https://gamaalice.github.io/dev-portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%23c95ac6?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio">
   </a>
 </div>
@@ -33,7 +35,6 @@
 A dynamic, bilingual portfolio with a terminal-style interface and interactive animations.  
 - Multi-language support (PT/EN) with persistence in LocalStorage  
 - CLI-style intro with blinking cursor and animated lines  
-- Responsive project carousel with keyboard and touch support  
 - Accessible navbar with ARIA attributes and automatic active link highlighting  
 [View Project](https://gamaalice.github.io/dev-portfolio)
 
@@ -43,8 +44,7 @@ A dynamic, bilingual portfolio with a terminal-style interface and interactive a
 A personal budgeting application built with **Tkinter, Pandas, and Matplotlib**.  
 - Organized interface with side input panel (date, category, subcategory, amount)  
 - Automatic CSV storage with modularized code across multiple files  
-- Graphical visualizations: **pie chart** for spending distribution and **bar chart** by category  
-- Clean and functional dashboard  
+- Graphical visualizations: **pie chart** for spending distribution and **bar chart** by category   
 [View Repository](#)
 
 ---
