@@ -23,7 +23,7 @@
 
 ### Most Used Languages
 <div align="center">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gamaalice&layout=compact&langs_count=10&hide_border=true&title_color=c95ac6&text_color=c95ac6&bg_color=0d1117" alt="Most Used Languages"/>
+  <img height="195px" src="https://v0-git-hub-language-stats.vercel.app/api/card/gamaalice?theme=dark&layout=compact&top=10&hide_border=true" alt="Most Used Languages"/>
 </div>
 
 ---
