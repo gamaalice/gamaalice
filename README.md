@@ -48,7 +48,7 @@ A dynamic, bilingual portfolio featuring a terminal-style interface and interact
 - CLI-style intro with blinking cursor and animated lines  
 - Responsive carousel with keyboard and touch support  
 - Accessible navbar (ARIA) with active link highlighting  
-[View Project](https://gamaalice.github.io/dev-portfolio)
+[View Project](https://dev-portfolio-two-lovat-95.vercel.app/)
 
 ---
 
