@@ -69,6 +69,7 @@ Open-source tool for real-time cryptocurrency dashboards.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)
+![C#](https://img.shields.io/badge/-c#-0D1117?style=flat&logo=python&labelColor=0D1117)
 
 ---
 
@@ -78,10 +79,12 @@ Open-source tool for real-time cryptocurrency dashboards.
 ![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=flat&logo=reactnative&labelColor=0D1117)
 ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=flat&logo=expo&labelColor=0D1117)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=node.js&labelColor=0D1117)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&labelColor=0D1117)
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=node.js&labelColor=0D1117)
 
 ---
 
