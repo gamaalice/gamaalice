@@ -2,14 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c95ac6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Alice+Gama;Welcome+to+my+GitHub!)](https://git.io/typing-svg) 
 
-## Software Engineer | Frontend, Mobile & Python Automation
+## Software Engineer, Junior Developer | Frontend, Backend & Automation
 
+### Frontend & Mobile
 - React.js and Next.js for scalable, optimized interfaces  
 - React Native + Expo for cross-platform mobile apps  
-- Python (Tkinter, Pandas, Matplotlib) for automation and dashboards  
-- Modular architecture with focus on scalability  
 - Real-time data integration and visualization  
-- Engineering mindset oriented to workflow optimization  
+- Focus on responsive UI and user experience  
+
+### Backend & Desktop
+- Criação e manutenção de módulos desktop na plataforma .NET  
+- Integração com sistemas de terceiros através do consumo de APIs REST  
+- Manipulação e persistência de dados com SQLite  
+- Modular architecture with focus on scalability  
+
+### Automation & Data
+- Python (Tkinter, Pandas, Matplotlib) for automation and dashboards  
+- Engineering mindset oriented to workflow optimization
+
+--- 
 
 ## Connect with Me
 
@@ -63,13 +74,26 @@ Open-source tool for real-time cryptocurrency dashboards.
 
 ---
 
+### CEP Integration App (.NET)
+
+Desktop application built with .NET WinForms that consumes the ViaCEP API and stores results in a local SQLite database.
+
+- Built with **C#, .NET WinForms**
+- Consumes ViaCEP API using HttpClient
+- Searches address by CEP in real time
+- Displays Rua, Cidade, UF
+- Stores results locally using SQLite
+- Lists previously saved addresses
+[View Repository](https://github.com/gamaalice/cryptodashbord)
+---
+
 ## Main Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)
-![C#](https://img.shields.io/badge/-c#-0D1117?style=flat&logo=python&labelColor=0D1117)
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=flat&logo=csharp&logoColor=white)
 
 ---
 
@@ -80,6 +104,10 @@ Open-source tool for real-time cryptocurrency dashboards.
 ![Expo](https://img.shields.io/badge/-Expo-0D1117?style=flat&logo=expo&labelColor=0D1117)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=node.js&labelColor=0D1117)
+![.NET](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/-WinForms-0D1117?style=flat&logo=windows&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat&logo=sqlite&logoColor=white)
+![API](https://img.shields.io/badge/-REST%20API-0D1117?style=flat&logo=fastapi&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-0D1117?style=flat&logo=bootstrap&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)
