@@ -84,7 +84,7 @@ Desktop application built with .NET WinForms that consumes the ViaCEP API and st
 - Displays Rua, Cidade, UF
 - Stores results locally using SQLite
 - Lists previously saved addresses
-[View Repository](https://github.com/gamaalice/cryptodashbord)
+[View Repository](https://github.com/gamaalice/CepApp)
 ---
 
 ## Main Languages
@@ -112,7 +112,6 @@ Desktop application built with .NET WinForms that consumes the ViaCEP API and st
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&labelColor=0D1117)
-![.NET](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=node.js&labelColor=0D1117)
 
 ---
 
