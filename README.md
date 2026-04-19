@@ -5,20 +5,22 @@
 ## Software Engineer, Junior Developer | Frontend, Backend & Automation
 
 ### Frontend & Mobile
-- React.js and Next.js for scalable, optimized interfaces  
-- React Native + Expo for cross-platform mobile apps  
-- Real-time data integration and visualization  
-- Focus on responsive UI and user experience  
+- React, Next.js, JavaScript and TypeScript for scalable and optimized interfaces
+- React Native + Expo for cross-platform mobile apps
+- CSS for responsive UI and consistent styling
+- Component-based architecture and basic UI testing
 
 ### Backend & Desktop
-- Criação e manutenção de módulos desktop na plataforma .NET  
-- Integração com sistemas de terceiros através do consumo de APIs REST  
-- Manipulação e persistência de dados com SQLite  
-- Modular architecture with focus on scalability  
+- Node.js and NestJS for backend services and API development
+- Development and maintenance of desktop modules using C# and .NET
+- Integration with third-party systems through REST APIs
+- Data manipulation and persistence using SQL / SQLite
+- Modular architecture with focus on scalability
 
-### Automation & Data
-- Python (Tkinter, Pandas, Matplotlib) for automation and dashboards  
+### Automation & Quality
+- Python (Tkinter, Pandas, Matplotlib) for automation and dashboards
 - Engineering mindset oriented to workflow optimization
+- CI/CD pipelines for build, test, and deployment automation
 
 --- 
 
