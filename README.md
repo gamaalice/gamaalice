@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/alice-gama-75913022a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="[[https://gamaalice.github.io/dev-portfolio](https://dev-portfolio-two-lovat-95.vercel.app/)](https://dev-portfolio-two-lovat-95.vercel.app/)" target="_blank" style="margin-left:12px">
+  <a href="https://dev-portfolio-two-lovat-95.vercel.app/" target="_blank" style="margin-left:12px">
     <img src="https://img.shields.io/badge/Portfolio-6f2e6d?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
