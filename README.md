@@ -56,14 +56,15 @@ Featured projects will be added as they are completed and production-ready.
 
 ## Certifications
 
-<img src="https://cdn.simpleicons.org/github/181717" width="18"/> **GitHub Foundations**  
-*GitHub*
+## Certifications
 
-<img src="https://cdn.simpleicons.org/oracle/F80000" width="18"/> **Oracle Cloud Infrastructure Foundations Associate**  
-*Oracle*
+<img src="https://cdn.simpleicons.org/udemy/A435F0" width="18"/> **The Complete Full-Stack Web Development Bootcamp**  
+*Udemy*
 
-<img src="https://cdn.simpleicons.org/anthropic/191919" width="18"/> **Anthropic Learning**  
-*Anthropic*
+<br>
+
+<img src="https://cdn.simpleicons.org/bookstack/0052CC" width="18"/> **Project Management**  
+*LabProject PMO*
 
 ---
 
