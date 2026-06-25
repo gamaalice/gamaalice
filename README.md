@@ -1,34 +1,3 @@
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f2e6d&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c95ac6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Alice+Gama;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
-## Junior Software Engineer | Focused on Front-end Development
-
-### Front-end Engineering
-- Development of modern, responsive and scalable web applications
-- React, Next.js, Vite, JavaScript and TypeScript
-- Component-based architecture with reusable UI
-- Responsive interfaces focused on usability and user experience
-- Integration with REST APIs and cloud services
-
-### Software Engineering
-- Software architecture focused on scalability and maintainability
-- Scalable application design and modular systems
-- Database modeling and data persistence
-- Authentication and cloud integration using Firebase
-- REST API integration
-- Maintainable and well-structured codebases
-
-### Project Planning & Development
-- Project planning and technical organization
-- Agile methodologies and iterative development
-- Product organization and backlog management
-- Development lifecycle from planning to deployment
-- Technical documentation and project structuring
-
----
-
 ## Connect with Me
 
 <div align="center">
@@ -53,8 +22,6 @@
 Featured projects will be added as they are completed and production-ready.
 
 ---
-
-## Certifications
 
 ## Certifications
 
@@ -89,8 +56,3 @@ Featured projects will be added as they are completed and production-ready.
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js&labelColor=0D1117)
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&labelColor=0D1117)
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f2e6d&height=120&section=footer"/>
-
