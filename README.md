@@ -55,8 +55,6 @@ Lunara was built as a real product experience, with authentication, database per
 
 ---
 
----
-
 ## Certifications
 
 <img src="https://cdn.simpleicons.org/udemy/A435F0" width="18"/> **The Complete Full-Stack Web Development Bootcamp**  
