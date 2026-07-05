@@ -48,12 +48,12 @@
 
 One of my main front-end projects: a complete management app for freelancers, designed to organize clients, projects, tasks, finances, and deadlines in one place.
 
-Lunara was built as a real product experience, with authentication, database persistence, user-based data isolation, security rules, responsive UI, PWA support, web deployment, and a desktop version with Tauri.
+Lunara was built as a real product experience, with authentication, database persistence, user based data isolation, security rules, responsive UI, PWA support, web deployment, and a desktop version with Tauri.
 
-Explore the project:
+**Explore the project:**  
+[Case Study Repository](https://github.com/gamaalice/Lunara-App) · [Live Web App](https://app-lunara.vercel.app/login)
 
-[Repository](https://github.com/gamaalice/Lunara-App)  
-[Live Web App](https://app-lunara.vercel.app/login)
+---
 
 ---
 
