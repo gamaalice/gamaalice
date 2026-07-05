@@ -44,7 +44,16 @@
 
 ## Featured Projects
 
-Featured projects will be added as they are completed and production-ready.
+### Lunara — Freelancer Management App
+
+One of my main front-end projects: a complete management app for freelancers, designed to organize clients, projects, tasks, finances, and deadlines in one place.
+
+Lunara was built as a real product experience, with authentication, database persistence, user-based data isolation, security rules, responsive UI, PWA support, web deployment, and a desktop version with Tauri.
+
+Explore the project:
+
+[Repository](https://github.com/gamaalice/Lunara-App)  
+[Live Web App](https://app-lunara.vercel.app/login)
 
 ---
 
@@ -52,8 +61,6 @@ Featured projects will be added as they are completed and production-ready.
 
 <img src="https://cdn.simpleicons.org/udemy/A435F0" width="18"/> **The Complete Full-Stack Web Development Bootcamp**  
 *Udemy*
-
-<br>
 
 <img src="https://cdn.simpleicons.org/bookstack/0052CC" width="18"/> **Project Management**  
 *LabProject PMO*
