@@ -50,8 +50,19 @@ One of my main front-end projects: a complete management app for freelancers, de
 
 Lunara was built as a real product experience, with authentication, database persistence, user based data isolation, security rules, responsive UI, PWA support, web deployment, and a desktop version with Tauri.
 
-**Explore the project:**  
+**Explore the project:** 
 [Case Study Repository](https://github.com/gamaalice/Lunara-App) · [Live Web App](https://app-lunara.vercel.app/login)
+
+### Dev Portfolio — Personal Developer Portfolio
+
+My personal developer portfolio built to showcase my professional journey, technical skills, projects, and experience as a Front-End Developer.
+
+The project was designed with a focus on modern frontend architecture, responsive design, accessibility, performance optimization, multilingual support, and a clean user experience.
+
+Built with Next.js, React, TypeScript, Tailwind CSS, and shadcn/ui, the portfolio includes custom components, animations, theme management, structured SEO data, and optimized deployment with Vercel.
+
+**Explore the project:**  
+[Repository](https://github.com/gamaalice/dev-portfolio) · [Live Website](https://dev-portfolio-two-lovat-95.vercel.app/)
 
 ---
 
