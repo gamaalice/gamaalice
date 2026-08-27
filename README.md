@@ -72,6 +72,9 @@ Built with Next.js, React, TypeScript, Tailwind CSS, and shadcn/ui, the portfoli
 <img src="https://cdn.simpleicons.org/bookstack/0052CC" width="18"/> **Project Management**  
 *LabProject PMO*
 
+<img src="https://cdn.simpleicons.org/udemy/A435F0" width="18"/> **Learn Figma for UI/UX Design**  
+*Udemy*
+
 ---
 
 ## Languages
