@@ -3,29 +3,26 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c95ac6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Alice+Gama;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-## Junior Software Engineer | Focused on Front-end Development
+## Front-end Foundation, Expanding Full-Stack
 
 ### Front-end Engineering
-- Development of modern, responsive and scalable web applications
-- React, Next.js, Vite, JavaScript and TypeScript
+- Development of modern, responsive, and scalable web applications
+- React, Next.js, Vite, JavaScript, and TypeScript
 - Component-based architecture with reusable UI
 - Responsive interfaces focused on usability and user experience
 - Integration with REST APIs and cloud services
 
 ### Software Engineering
 - Software architecture focused on scalability and maintainability
-- Scalable application design and modular systems
-- Database modeling and data persistence
-- Authentication and cloud integration using Firebase
-- REST API integration
-- Maintainable and well-structured codebases
+- Database modeling, data persistence, and authentication with Firebase
+- Node, Next, and Nest for backend logic and API integration
+- Currently expanding into Python for automation, data handling, and AI integration, with tools like n8n
 
 ### Project Planning & Development
-- Project planning and technical organization
-- Agile methodologies and iterative development
-- Product organization and backlog management
-- Development lifecycle from planning to deployment
-- Technical documentation and project structuring
+- Agile methodologies with working knowledge of Kanban and Scrum
+- Backlog management and iterative, incremental delivery
+- End-to-end involvement, from technical planning to deployment
+- Technical documentation and requirements gathering
 
 ---
 
