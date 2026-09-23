@@ -68,6 +68,7 @@ Velvet was built as a complete product experience, with authentication, database
 Built with Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, and Better Auth.
 
 **Explore the project:** [Repository](https://github.com/gamaalice/Velvet) · [Live Web App](https://velvet-eight-chi.vercel.app/)
+
 ---
 
 ## Certifications
