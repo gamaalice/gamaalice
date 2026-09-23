@@ -59,6 +59,15 @@ Built with Next.js, React, TypeScript, Tailwind CSS, and shadcn/ui, the portfoli
 
 **Explore the project:** [Repository](https://github.com/gamaalice/dev-portfolio) · [Live Website](https://dev-portfolio-two-lovat-95.vercel.app/)
 
+### Velvet — Personal Book Library
+
+A personal book library application designed to help readers organize their reading journey, manage their books, track reading status, and keep ratings, reviews, and genres in one place.
+
+Velvet was built as a complete product experience, with authentication, database persistence, user based data isolation, book management, responsive UI, and a clean reading-focused interface.
+
+Built with Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, and Better Auth.
+
+**Explore the project:** [Repository](https://github.com/gamaalice/Velvet) · [Live Web App](https://velvet-eight-chi.vercel.app/)
 ---
 
 ## Certifications
