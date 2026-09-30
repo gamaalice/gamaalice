@@ -83,28 +83,64 @@ Built with Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, and Bet
 *Udemy*
 
 ---
-
 ## Languages
 
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5&labelColor=0D1117)
-![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3&logoColor=1572B6&labelColor=0D1117)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&labelColor=0D1117)
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5&labelColor=0D1117)
+![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3&logoColor=1572B6&labelColor=0D1117)
 
 ---
 
-## Tools & Frameworks
+## Artificial Intelligence
 
-![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&labelColor=0D1117)
+![Claude](https://img.shields.io/badge/-Claude-0D1117?style=flat&logo=anthropic&labelColor=0D1117)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-0D1117?style=flat&logo=openai&labelColor=0D1117)
+![Dialogflow](https://img.shields.io/badge/-Dialogflow-0D1117?style=flat&logo=dialogflow&labelColor=0D1117)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-0D1117?style=flat&logo=githubcopilot&labelColor=0D1117)
+![Cursor](https://img.shields.io/badge/-Cursor-0D1117?style=flat&logo=cursor&labelColor=0D1117)
+
+---
+
+## Frameworks
+
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=nextdotjs&labelColor=0D1117)
-![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite&labelColor=0D1117)
+![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=nodedotjs&labelColor=0D1117)
+![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express&labelColor=0D1117)
+
+---
+
+## Libraries
+
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=flat&logo=tailwindcss&logoColor=38BDF8&labelColor=0D1117)
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat&logo=firebase&labelColor=0D1117)
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=node.js&labelColor=0D1117)
+![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy&labelColor=0D1117)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=matplotlib&labelColor=0D1117)
+
+---
+
+## Tools
+
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visual-studio-code&labelColor=0D1117)
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/-VS%20Code-0D1117?style=flat&logo=visualstudiocode&labelColor=0D1117)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma&labelColor=0D1117)
+![Google Auth](https://img.shields.io/badge/-Google%20Auth-0D1117?style=flat&logo=google&labelColor=0D1117)
+![Better Auth](https://img.shields.io/badge/-Better%20Auth-0D1117?style=flat&logo=betterauth&labelColor=0D1117)
+
+---
+
+## Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&labelColor=0D1117)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql&labelColor=0D1117)
+![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat&logo=prisma&labelColor=0D1117)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat&logo=firebase&labelColor=0D1117)
+![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=flat&logo=oracle&labelColor=0D1117)
 
 ---
 
