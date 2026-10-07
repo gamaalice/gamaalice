@@ -47,7 +47,7 @@ One of my main front-end projects: a complete management app for freelancers, de
 
 Lunara was built as a real product experience, with authentication, database persistence, user based data isolation, security rules, responsive UI, PWA support, web deployment, and a desktop version with Tauri.
 
-**Explore the project:** [Case Study Repository](https://github.com/gamaalice/Lunara-App) · [Live Web App](https://app-lunara.vercel.app/login)
+**Explore the project:** [Repository](https://github.com/gamaalice/Lunara-App) · [Live Web App](https://app-lunara.vercel.app/login)
 
 ### Dev Portfolio — Personal Developer Portfolio
 
@@ -68,6 +68,14 @@ Velvet was built as a complete product experience, with authentication, database
 Built with Next.js, React, TypeScript, Tailwind CSS, Prisma, PostgreSQL, and Better Auth.
 
 **Explore the project:** [Repository](https://github.com/gamaalice/Velvet) · [Live Web App](https://velvet-eight-chi.vercel.app/)
+
+### ScopeFlow — Scope Management App
+
+A full-stack project created to help freelancers manage project scope and identify when a client request becomes additional work.
+
+ScopeFlow allows freelancers to define project scope, register change requests, analyze whether they are inside or outside the agreed scope, estimate additional hours and cost, and record decisions and their history.
+
+**Explore the project:** [Repository](https://github.com/gamaalice/scope-flow)
 
 ---
 
