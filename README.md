@@ -96,6 +96,7 @@ ScopeFlow allows freelancers to define project scope, register change requests, 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&labelColor=0D1117)
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)
+![C#](https://img.shields.io/badge/-C%23-0D1117?style=flat&logo=csharp&labelColor=0D1117)
 ![SQL](https://img.shields.io/badge/-SQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)
 ![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=flat&logo=html5&labelColor=0D1117)
 ![CSS3](https://img.shields.io/badge/-CSS3-0D1117?style=flat&logo=css3&logoColor=1572B6&labelColor=0D1117)
