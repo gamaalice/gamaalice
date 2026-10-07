@@ -119,6 +119,8 @@ ScopeFlow allows freelancers to define project scope, register change requests, 
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=nodedotjs&labelColor=0D1117)
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express&labelColor=0D1117)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-0D1117?style=flat&logo=dotnet&labelColor=0D1117)
+![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite&labelColor=0D1117)
 
 ---
 
@@ -128,6 +130,8 @@ ScopeFlow allows freelancers to define project scope, register change requests, 
 ![Pandas](https://img.shields.io/badge/-Pandas-0D1117?style=flat&logo=pandas&labelColor=0D1117)
 ![NumPy](https://img.shields.io/badge/-NumPy-0D1117?style=flat&logo=numpy&labelColor=0D1117)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-0D1117?style=flat&logo=matplotlib&labelColor=0D1117)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-0D1117?style=flat&logo=dotnet&labelColor=0D1117)
+![Lucide React](https://img.shields.io/badge/-Lucide%20React-0D1117?style=flat&logo=lucide&labelColor=0D1117)
 
 ---
 
@@ -145,11 +149,19 @@ ScopeFlow allows freelancers to define project scope, register change requests, 
 ## Databases
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/-SQLite-0D1117?style=flat&logo=sqlite&labelColor=0D1117)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql&labelColor=0D1117)
 ![Prisma](https://img.shields.io/badge/-Prisma-0D1117?style=flat&logo=prisma&labelColor=0D1117)
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)
 ![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=flat&logo=firebase&labelColor=0D1117)
 ![Oracle](https://img.shields.io/badge/-Oracle-0D1117?style=flat&logo=oracle&labelColor=0D1117)
+
+## Backend & API
+
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-0D1117?style=flat&logo=dotnet&labelColor=0D1117)
+![Entity Framework Core](https://img.shields.io/badge/-Entity%20Framework%20Core-0D1117?style=flat&logo=dotnet&labelColor=0D1117)
+![OpenAPI](https://img.shields.io/badge/-OpenAPI-0D1117?style=flat&logo=openapiinitiative&labelColor=0D1117)
+![Scalar](https://img.shields.io/badge/-Scalar-0D1117?style=flat&logo=scalar&labelColor=0D1117)
 
 ---
 
