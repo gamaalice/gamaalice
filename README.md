@@ -75,6 +75,8 @@ A full-stack project created to help freelancers manage project scope and identi
 
 ScopeFlow allows freelancers to define project scope, register change requests, analyze whether they are inside or outside the agreed scope, estimate additional hours and cost, and record decisions and their history.
 
+Built with C#, ASP.NET Core, Entity Framework Core, SQLite, OpenAPI, Scalar, React, TypeScript, Vite, and Lucide React.
+
 **Explore the project:** [Repository](https://github.com/gamaalice/scope-flow)
 
 ---
