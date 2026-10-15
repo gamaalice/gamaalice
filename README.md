@@ -16,7 +16,7 @@
 - Software architecture focused on scalability and maintainability
 - Database modeling, data persistence, and authentication with Firebase
 - Node, Next, and Nest for backend logic and API integration
-- Currently expanding into Python for automation, data handling, and AI integration, with tools like n8n
+- Currently expanding into Python for automation, data handling, and AI integration
 
 ### Project Planning & Development
 - Agile methodologies with working knowledge of Kanban and Scrum
