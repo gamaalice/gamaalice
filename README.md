@@ -79,6 +79,14 @@ Built with C#, ASP.NET Core, Entity Framework Core, SQLite, OpenAPI, Scalar, Rea
 
 **Explore the project:** [Repository](https://github.com/gamaalice/scope-flow)
 
+### Claude Skill Library — AI Skills Collection
+
+A collection of custom Claude skills designed to support frontend design, job opportunity evaluation, and interview preparation.
+
+The repository brings together reusable instructions and workflows to improve development processes, evaluate career opportunities, and prepare for technical and behavioral interviews.
+
+**Explore the project:** [Repository](https://github.com/gamaalice/claude-skill-library)
+
 ---
 
 ## Certifications
@@ -120,6 +128,7 @@ Built with C#, ASP.NET Core, Entity Framework Core, SQLite, OpenAPI, Scalar, Rea
 ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat&logo=nextdotjs&labelColor=0D1117)
 ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat&logo=nodedotjs&labelColor=0D1117)
+![Nest.js](https://img.shields.io/badge/-Nest.js-0D1117?style=flat&logo=nodedotjs&labelColor=0D1117)
 ![Express](https://img.shields.io/badge/-Express-0D1117?style=flat&logo=express&labelColor=0D1117)
 ![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-0D1117?style=flat&logo=dotnet&labelColor=0D1117)
 ![Vite](https://img.shields.io/badge/-Vite-0D1117?style=flat&logo=vite&labelColor=0D1117)
