@@ -68,19 +68,6 @@ The repository brings together reusable instructions and workflows to improve de
 **Explore the project:** [Repository](https://github.com/gamaalice/claude-skill-library)
 
 ---
-
-## Certifications
-
-<img src="https://cdn.simpleicons.org/udemy/A435F0" width="18"/> **The Complete Full-Stack Web Development Bootcamp**  
-*Udemy*
-
-<img src="https://cdn.simpleicons.org/bookstack/0052CC" width="18"/> **Project Management**  
-*LabProject PMO*
-
-<img src="https://cdn.simpleicons.org/udemy/A435F0" width="18"/> **Learn Figma for UI/UX Design**  
-*Udemy*
-
----
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117)
